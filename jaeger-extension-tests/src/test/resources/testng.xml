@@ -27,7 +27,7 @@
 
     <test name="ballerina-jaeger-extension-tests" parallel="false">
         <classes>
-            <class name="io.ballerina.observe.trace.jaeger.JaegerTracesTestCase"/>
+<!--            <class name="io.ballerina.observe.trace.jaeger.JaegerTracesTestCase"/>-->
         </classes>
     </test>
 </suite>
